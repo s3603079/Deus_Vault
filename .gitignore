@@ -1,4 +1,8 @@
+# ignore everything #
 /*
+
+# Keep #
+
 !/Assets/
 !/Packages/
 !/ProjectSettings/

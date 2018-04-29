@@ -3,6 +3,10 @@
 
 # Keep #
 
-!/Assets/
-!/Packages/
-!/ProjectSettings/
+!.gitignore
+!README.md
+!Game Asset Resources
+
+!Deus Vault Project/Assets/
+!Deus Vault Project/Packages/
+!Deus Vault Project/ProjectSettings/
